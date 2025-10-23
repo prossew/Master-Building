@@ -4,7 +4,6 @@ A modern, responsive landing page for Master Building - manufacturer of high-qua
 
 🌐 **Live Demo**: [https://prossew.github.io/Master-Building/](https://prossew.github.io/Master-Building/)
 
-![Master Building Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Master+Building+Landing+Page)
 
 ## 📋 Project Overview
 
